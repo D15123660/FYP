@@ -93,14 +93,14 @@
 						<div class="radio-line radio-box active">
 							<label class="radio-label ep">
 								<input name="paytype" value="1" autocomplete="off" type="radio" checked="checked"><i class="iconfont icon-radio"></i>
-								<img src="images/icons/wechat.gif" alt="Paypal">
+								<img src="images/icons/" alt="Paypal">
 							</label>
 							<div class="pay-value">Pay<b class="fz16 cr" id="total3"> ${order.total} </b>€</div>
 						</div>
 						<div class="radio-line radio-box">
 							<label class="radio-label ep">
 								<input name="paytype" value="2" autocomplete="off" type="radio"><i class="iconfont icon-radio"></i>
-								<img src="images/icons/alipay.gif" alt="Apple pay">
+								<img src="images/icons/" alt="Credit card">
 							</label>
 							<div class="pay-value">Pay<b class="fz16 cr" id="total2"> ${order.total} </b>€</div>
 						</div>
